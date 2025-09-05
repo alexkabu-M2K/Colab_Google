@@ -1,2 +1,2 @@
-# Colab_Google
-Pasta para arquivos desenvolvidos no Colab.Google
+# Colab_Google_Estacio
+Pasta para Projetos da Faculdade Estácio desenvolvidos na plataforma Colab.Google
